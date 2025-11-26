@@ -47,7 +47,7 @@ inventory, and book loans. Analytical queries are included to understand book us
   </tr>
 </table>
 
-<p>📎 Full SQL schema and queries are included in <strong><code>library_entry_full project.sql</code></strong></p>
+<p>📎 Full SQL schema and queries are included in <strong><code>Tables.sql and Tasks.sql</code></strong></p>
 
 <hr>
 
@@ -118,11 +118,11 @@ To design and analyze a structured SQL database that manages books, branches, lo
     <th>Type</th>
   </tr>
   <tr>
-    <td><strong>library_entry_full project.sql</strong></td>
+    <td><strong>Tasks.sql and Tables.sql</strong></td>
     <td>Full SQL schema + sample data + analytical queries</td>
   </tr>
   <tr>
-    <td><strong>SQL PROJECT PPT.pptx</strong></td>
+    <td><strong>LIBRARY MANAGEMENT SYSTEM.pptx</strong></td>
     <td>Project presentation (ER model, schema explanation, insights)</td>
   </tr>
   <tr>
@@ -145,7 +145,6 @@ To design and analyze a structured SQL database that manages books, branches, lo
 
 <h2>👩‍💻 Author</h2>
 <p>
-<strong>M. Poojitha</strong><br>
-📍 Telangana, India<br>
+<strong>Teemara Sai</strong><br>
 💡 Interested in SQL, Databases & Data Analysis
 </p>
